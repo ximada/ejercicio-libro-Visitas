@@ -1,8 +1,8 @@
 
-.red {
-    color: red;
-
+#container-timerealComment {
+    border: 1px solid #d6cccc;
+    height: 20vh;
 }
-.green {
-    color: green;
+.comments {
+    border-bottom: 1px solid #000000;
 }
